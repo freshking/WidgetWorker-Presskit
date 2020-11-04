@@ -11,7 +11,8 @@ You may also download to complete press kit [here](https://github.com/freshking/
 ## Links
 
 Website: [https://www.widgetworker.app](https://www.widgetworker.app)  
-App Store: [https://apple.co/34PtjOw](https://apple.co/34PtjOw)
+App Store: [https://apple.co/34PtjOw](https://apple.co/34PtjOw)  
+Marketing assets: [https://tools.applemediaservices.com/app/1533979984?country=us](https://tools.applemediaservices.com/app/1533979984?country=us)
 
 ## Contact
  
